@@ -4,7 +4,7 @@ import time
 
 import requests as req
 
-path = sys.path[0] + r'./rtk.txt'
+path = sys.path[0] + r'/rtk.txt'
 # path = r'./rtk.txt'
 
 
